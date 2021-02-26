@@ -275,4 +275,10 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
-CNN_scripts/output/
+CODE/CNN_scripts/output/
+
+DOCS/
+
+RESULTS/
+
+DATA/
